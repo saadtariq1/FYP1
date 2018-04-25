@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\9ced26de5cf122b327797c18ee669448b973b8fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_15627dc81d58b24bca6c7a690783cb6f719a559c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3d3c7a2ac9112ca0ce983bd63ce7f88e48e82435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f2ccbc2599ecfe4699730b1dbb2cfdaaf0a455fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\60ae3773cd5933c73099f7db95888659703bce4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_ed92e646f26be2fd285d5adb87da916192764aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_4bf38d2294280f682036e9285cbc977a875bb385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\6aa7d99ac136a60ffb30408d5bf74989d63da9f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_97297c02eaa3b7e9699a64e4a918383f41d1edfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_181b82871670da1031b840b42bd66a7eeaf893d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\78a5b12fe2130924c9aef7c72053e07d92afa872\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_5cb6b152646ac88b48d5e892ef6c1f93bab9855a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_60347f7a9eebf4bd62fe85f8928e1f6c4a67b6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_570572dff20bc3ebc73bf769b69dec671d27594b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_468530a0c693564759b15a2e8bac61da195ddcea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_58ad066513857dc6032e181d082a0523d009ef5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\272bb2d21f342fa97ceb6210a879f731e4aa55fa\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4edfed7fbae4daa19ac502c450d8ec07674f2ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\09587a15ccc5ab9de1b7b0d2bc23e83ab0a51d17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_e7e058a79bb7f5488d17d54ff6828a9c6258bce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\6d5e614b3e5e2637519d75d0782a84aaecdb9f2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_ce6e990aeed2f451ac039ff2453e91411c34a965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\9d49fd070bd79248c6fdebe71422ae510842034c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_d37431d62315f4a0fc2cf9ac66a216407c8c998b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f2ccbc2599ecfe4699730b1dbb2cfdaaf0a455fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3d3c7a2ac9112ca0ce983bd63ce7f88e48e82435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\efa626e0237a4a3018b88f35444e570e61ed999f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_534f218113c199d3dfa07b2b73ca907f3464121e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\4bd4a5ae2cd193995702e684d8b4582acb3f00c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_81bb686ff0ead18b52c4c8df506ce146f077b818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\272bb2d21f342fa97ceb6210a879f731e4aa55fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_028ba1ef5357c7402dc365f3e5f932256e5d0a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_181b82871670da1031b840b42bd66a7eeaf893d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_58ad066513857dc6032e181d082a0523d009ef5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_468530a0c693564759b15a2e8bac61da195ddcea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_60347f7a9eebf4bd62fe85f8928e1f6c4a67b6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_4bf38d2294280f682036e9285cbc977a875bb385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_570572dff20bc3ebc73bf769b69dec671d27594b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\60ae3773cd5933c73099f7db95888659703bce4a\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_36ad4459650d3bda9222a07165578217d8337671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jbss\.android\build-cache\a0ca3740d3812e513446772a3f2a163a490f2886\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\FYPAPP5\android\app\build\intermediates\pre-dexed\debug\classes_eaaaa8a0204beec40b467d1b358357586a760807.jar" />
+    </item>
+
+</items>
