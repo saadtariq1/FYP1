@@ -1,0 +1,3 @@
+rootProject.name = 'FYPAPP5'
+
+include ':app'
